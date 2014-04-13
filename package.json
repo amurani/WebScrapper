@@ -1,0 +1,12 @@
+{
+	"name" 			: "strath-scrapper",
+	"version" 		: "0.0.1",
+	"description" 	: "Scraps Strath's website for news",
+	"main" 			: "server.js",
+	"author"		: "amurani",
+	"dependencies"	: {
+		"express"	: "latest",
+		"request"	: "latest",
+		"cheerio"	: "latest"
+	}
+}
